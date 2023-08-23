@@ -67,13 +67,13 @@ $ npm run test:cov
 
 ```bash
 # create migrate
-$ yarn migrate:create <name>
+$ npm run migrate:create <name>
 
 # migrate up
-$ yarn migrate:up
+$ npm run migrate:up
 
 # migrate down
-$ yarn migrate:down
+$ npm run migrate:down
 ```
 
 ## Support
