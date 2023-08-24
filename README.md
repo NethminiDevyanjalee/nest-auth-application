@@ -32,6 +32,11 @@
 $ npm install
 ```
 
+## Start Mongodb
+```bash
+$ docker-compose up
+```
+
 ## Running the app
 
 ```bash
@@ -56,6 +61,19 @@ $ npm run test:e2e
 
 # test coverage
 $ npm run test:cov
+```
+
+## Migration
+
+```bash
+# create migrate
+$ npm run migrate:create <name>
+
+# migrate up
+$ npm run migrate:up
+
+# migrate down
+$ npm run migrate:down
 ```
 
 ## Support
