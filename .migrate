@@ -1,9 +1,9 @@
 {
-  "lastRun": "1692808117287-addinitialuser.ts",
+  "lastRun": "1692875202376-addinitialuser.ts",
   "migrations": [
     {
-      "title": "1692808117287-addinitialuser.ts",
-      "timestamp": 1692808137610
+      "title": "1692875202376-addinitialuser.ts",
+      "timestamp": 1692875305345
     }
   ]
 }
